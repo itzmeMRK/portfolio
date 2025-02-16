@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PORTFOLIO MRK</title>
+<link rel="stylesheet" href=style.css">
+</head>
+
+<body>
+   <header>
+     <h1>MUHAMMED RINSHAD K</h1>
+     <nav>
+        <ul>
+         <li><a href="about">About</a></li>
+         <li><a href="#projects">Projects</a></li>
+         <li><a href="#contact">Contacts</a></li>
+        </ul>
+     </nav>
+   </header>
+
+   <section id="about">
+     <h2>About me</h2>
+     <p>Hi , im a passionate developer learning web development!</p>
+   </section>
+
+   <section id="projects">
+     <h2>My projects</h2>
+     <p>Data Science & AI Projects<br>
+        1-Stock Price Prediction<br>
+        2-AI Resume Screener<br>
+        Cybersecurity Projects<br>
+        1-Network Intrusion Detection System (IDS)<br>
+        2-Phishing URL Detector<br>
+        Web Development & Full-Stack Projects<br>
+        1-Portfolio Website<br></p>
+   </section>
+
+   <section id="contact">
+     </h2>contact me</h2>
+     <p>email</p>
+   </section>
+
+</body>
+</html>
+
+
